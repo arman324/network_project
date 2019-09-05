@@ -9,6 +9,34 @@ HOST = "localhost"
 PORT = "1105"
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def show_func():
     print("\n" + "USERNAME : " + USERNAME + "\n" + "API : " + API + "\n")
     print("What do you want to do : ")
